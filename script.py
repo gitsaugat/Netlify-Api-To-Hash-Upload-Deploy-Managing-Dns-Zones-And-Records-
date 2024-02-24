@@ -6,7 +6,7 @@ from hashlib import sha256, sha1
 import random
 import time
 
-ACCESS_TOKEN = "Bearer oqx-ph9NKMQdiGfRIFxuKy4Lov30PQgLXuTiBMr-4n4"
+ACCESS_TOKEN = ""
 URLS = {
     "all_urls_and_auth_check": "https://api.netlify.com/api/v1/",
     "get_and_create_site":  "https://api.netlify.com/api/v1/sites",
